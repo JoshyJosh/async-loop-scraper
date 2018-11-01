@@ -1,6 +1,4 @@
 # Adapted from https://stackabuse.com/python-async-await-tutorial/
-import signal
-import sys
 import asyncio
 import aiohttp
 import json
